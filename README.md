@@ -1,8 +1,8 @@
 - 👋 Hey!! I am the Gabriel Ricardo Santos Porfírio
 - 👀 I'm interested in Javascript / Front-end/ back-end
-- 🌱 I’m currently learning Javascript/ HTML/CSS
+- 🌱 I’m currently learning Javascript/ Nodejs/ HTML/ CSS
 - 📫 How to reach me e-mail: rgabrielporfirio@gmail.com 
-- 📫 How to reach me Linkedln: https://discord.com/channels/@me/885950959883276308/888489487775203368
+- 📫 How to reach me Linkedln: https://www.linkedin.com/in/gabriel-ricardo-santos-porfirio-72a96121b/
 
 <div>
   <a href="https://github.com/mhsbiel">
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zAsHnpO9BjDn-SCylPXJ9_WGZ2Ha4ZoyJGvk582_092uPoBCBWJMABBDyVnkAJJ5G8k&usqp=CAU'>
 </div>
   
  ##
