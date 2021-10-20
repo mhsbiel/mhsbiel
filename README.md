@@ -1,5 +1,5 @@
 - 👋 Hey!! I am the Gabriel Ricardo Santos Porfírio
-- 👀 I'm interested in Javascript / Front-end/ back-end
+- 👀 I'm interested in Programming logic / Algorithms
 - 🌱 I’m currently learning Programming logic / Algorithms
 - 📫 How to reach me e-mail: rgabrielporfirio@gmail.com 
 - 📫 How to reach me Linkedln: https://www.linkedin.com/in/gabriel-ricardo-santos-porfirio-72a96121b/
