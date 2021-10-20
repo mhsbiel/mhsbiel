@@ -11,10 +11,8 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zAsHnpO9BjDn-SCylPXJ9_WGZ2Ha4ZoyJGvk582_092uPoBCBWJMABBDyVnkAJJ5G8k&usqp=CAU'>
+  
+  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src=""
 </div>
   
  ##
