@@ -12,7 +12,7 @@
 
   <div style="display: inline_block"><br>
   
-  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src="">
+  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMPdhc4LdFg0n6IZEk5dxPM4lTQjlAGqnHg&usqp=CAU">
 </div>
   
  ##
