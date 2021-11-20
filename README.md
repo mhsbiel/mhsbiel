@@ -12,7 +12,7 @@
 
   <div style="display: inline_block"><br>
   
-  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src=""
+  <img align='center' alt='Gabriel-Nodejs' height='70' width='80' src="">
 </div>
   
  ##
