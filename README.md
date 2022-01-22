@@ -14,9 +14,11 @@
   
   <img align='center' alt='Gabriel' height='70' width='80' src="">
 </div>
+ 
+  ## ⚡ Technologies
   
  <div>
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
    
  </div>
  
