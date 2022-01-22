@@ -15,7 +15,10 @@
   <img align='center' alt='Gabriel' height='70' width='80' src="">
 </div>
   
- ##
+ <div>
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+   
+ </div>
  
   <div> 
     <a href="https://www.instagram.com/mhs__biel/" target="_blank">
