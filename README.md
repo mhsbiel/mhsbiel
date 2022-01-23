@@ -22,7 +22,7 @@
  <div style="display: inline_block"><br>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-   <img height="18rem" src="https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code">
+   <img height="30rem" src="https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code">
  </div>
 <hr>
   <div> 
