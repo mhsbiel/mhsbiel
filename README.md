@@ -4,11 +4,7 @@
 - 📫 How to reach me e-mail: rgabrielporfirio@gmail.com 
 - 📫 How to reach me Linkedln: https://www.linkedin.com/in/gabriel-ricardo-santos-porfirio-72a96121b/
 
-<div>
-  <a href="https://github.com/mhsbiel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhsbiel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhsbiel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
   ## ⚡ Technologies
  <div style="display: inline_block"><br>
