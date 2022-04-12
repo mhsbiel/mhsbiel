@@ -12,7 +12,7 @@
 
 ## ⚡ Technologies
 <div style="display: inline_block"><br>
-  <h1>CSS<h1>
+  <h1> HTML, CSS E JAVASCRIPT | C | JAVA <h1>
 </div>
   
  ## 🧰 Tools
