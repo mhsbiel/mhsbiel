@@ -1,5 +1,5 @@
 - 👋 Hey!! I am the Gabriel Ricardo Santos Porfírio
-- 👀 I'm interested in Programming logic
+- 👀 I'm interested in android development
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me e-mail: rgabrielporfirio@gmail.com 
 - 📫 How to reach me Linkedln: https://www.linkedin.com/in/gabriel-ricardo-santos-porfirio-72a96121b/
