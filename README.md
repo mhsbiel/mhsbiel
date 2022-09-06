@@ -21,6 +21,7 @@
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
    <img height="27rem" src="https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code">
    <img height="30rem" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bd751d07-1e6e-4b3f-aa49-0adae5f330c1/d91ydkn-2f85f091-a52d-435f-b9b7-11de4dca63de.png">
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  </div>
 <hr>
   <div> 
